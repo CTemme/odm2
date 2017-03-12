@@ -1,0 +1,12 @@
+{
+    "width": 2400, 
+    "camera": "v2 canon powershot elph 130 is 1800 2400 perspective 0.8116", 
+    "projection_type": "perspective", 
+    "orientation": 8, 
+    "focal_ratio": 0.8116883116883117, 
+    "make": "Canon", 
+    "gps": {}, 
+    "model": "Canon PowerShot ELPH 130 IS", 
+    "capture_time": 1409810003.0, 
+    "height": 1800
+}

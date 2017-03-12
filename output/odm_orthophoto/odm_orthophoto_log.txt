@@ -1,0 +1,64 @@
+/code/build/bin/odm_orthophoto_log.txt
+
+Arguments given
+-inputFile
+/code/odm_texturing/odm_textured_model.obj
+-logFile
+/code/odm_orthophoto/odm_orthophoto_log.txt
+-outputFile
+/code/odm_orthophoto/odm_orthophoto.png
+-resolution
+20.0
+-outputCornerFile
+/code/odm_orthophoto/odm_orthophoto_corners.txt
+
+Reading textured mesh from: /code/odm_texturing/odm_textured_model.obj
+Log file path was set to: /code/odm_orthophoto/odm_orthophoto_log.txt
+Writing output to: /code/odm_orthophoto/odm_orthophoto.png
+Resolution count was set to: 20pixels/meter
+Writing corners to: /code/odm_orthophoto/odm_orthophoto_corners.txt
+
+Reading mesh file...
+.. mesh file read.
+
+Number of faces in the model 175890
+Set boundary to contain entire model.
+Local boundary points:
+Point 1: -135.08 -111.39
+Point 2: -135.08 -52.791
+Point 3: 120.98 -52.791
+Point 4: 120.98 -111.39
+
+Ortho photo bounds x : -135.08 -> 120.98
+Ortho photo bounds y : -111.39 -> -52.791
+Ortho photo area : 15004.9m2
+Ortho photo resolution, width x height : 5122x1172
+Translating and scaling mesh...
+.. mesh translated and scaled.
+
+Rendering the ortho photo...
+Material 0 rendered.
+Material 1 rendered.
+Material 2 rendered.
+Material 3 rendered.
+Material 4 rendered.
+Material 5 rendered.
+Material 6 rendered.
+Material 7 rendered.
+Material 8 rendered.
+Material 9 rendered.
+Material 10 rendered.
+Material 11 rendered.
+Material 12 rendered.
+Material 13 rendered.
+Material 14 rendered.
+Material 15 rendered.
+Material 16 rendered.
+Material 17 rendered.
+Material 18 rendered.
+Material 19 rendered.
+...ortho photo rendered
+
+Writing ortho photo to /code/odm_orthophoto/odm_orthophoto.png
+Writing corner coordinates to /code/odm_orthophoto/odm_orthophoto_corners.txt
+Orthophoto generation done.
